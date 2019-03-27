@@ -141,8 +141,7 @@ I just googled the expression itself and it lead me to a stackoverflow page. Aft
 * **What's different about the syntax of conditional statements in JavaScript, compared to Python?**
 Python uses two equal signs ("==") to signify something being true while JS uses three (""==="").  Also, in Python, the values just have the signs to rely on, rather in than in JS where if the right value is in quotes, then that means it's false.    
 
-* **What do you think the `10000` refers to in the code `.fadeOut(10000)`?**
-	It refers to fading out the word "nice" in 10000 milliseconds after a user has typed a word in the box on the html page.
+* **What do you think the `10000` refers to in the code `.fadeOut(10000)`?** <br>It refers to fading out the word "nice" in 10000 milliseconds after a user has typed a word in the box on the html page.
 
 * **What do you think is going on with the following code at the beginning of the program? Note that the most important thing to do for answering this question is to be thoughtful and clear, not to be absolutely correct:**
 
